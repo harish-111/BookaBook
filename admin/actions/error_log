@@ -1,0 +1,4 @@
+[12-Oct-2018 18:29:27 UTC] PHP Notice:  Undefined index: inputCoupon in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/actions/save_coupon_process.php on line 33
+[12-Oct-2018 18:29:27 UTC] PHP Notice:  Undefined index: couponType in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/actions/save_coupon_process.php on line 34
+[12-Oct-2018 18:29:27 UTC] PHP Notice:  Undefined index: inputCouponValue in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/actions/save_coupon_process.php on line 35
+[12-Oct-2018 18:29:27 UTC] PHP Notice:  Undefined index: inputNumberCoupons in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/actions/save_coupon_process.php on line 36

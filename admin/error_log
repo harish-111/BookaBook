@@ -1,0 +1,14 @@
+[12-Oct-2018 21:05:30 UTC] PHP Parse error:  syntax error, unexpected 'SUCCESS' (T_STRING) in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/admindashboard.php on line 643
+[08-Nov-2018 01:37:43 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ']' in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/vieworders.php on line 288
+[08-Nov-2018 01:38:49 UTC] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ';' in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/vieworders.php on line 296
+[08-Nov-2018 01:39:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/vieworders.php on line 296
+[08-Nov-2018 01:39:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/vieworders.php on line 296
+[09-Nov-2018 05:05:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/sendDocketID.php on line 10
+[09-Nov-2018 05:06:03 UTC] PHP Notice:  Undefined variable: deliver_to in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/sendDocketID.php on line 21
+[09-Nov-2018 05:06:03 UTC] PHP Notice:  Undefined variable: track_link in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/sendDocketID.php on line 21
+[03-Dec-2018 13:38:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/actions/connect.php on line 9
+[03-Dec-2018 13:39:29 UTC] PHP Notice:  Undefined index: contact_number in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/sendDocketID.php on line 5
+[03-Dec-2018 13:39:29 UTC] PHP Notice:  Undefined index: pick_courier in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/sendDocketID.php on line 6
+[03-Dec-2018 13:39:29 UTC] PHP Notice:  Undefined index: deliver_to in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/sendDocketID.php on line 7
+[03-Dec-2018 13:39:29 UTC] PHP Notice:  Undefined index: order_id in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/sendDocketID.php on line 9
+[03-Dec-2018 13:39:29 UTC] PHP Notice:  Undefined index: docket_id in /home/f1o6gmadqmqc/public_html/glamaroma_admin_access/sendDocketID.php on line 21

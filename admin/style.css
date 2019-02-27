@@ -1,0 +1,98 @@
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  background-color: #ffffff;
+}
+
+#logo{
+	float:left;
+	width: 100px;
+	margin-left:20px;
+	position: fixed;
+}
+
+nav{
+	border-bottom: 2px solid #bfbfbf;
+}
+
+.bg-light{
+	background-color: #ffffff !important;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color: #000000;
+}
+
+img.navbar-brand{
+	max-width:15%;
+}
+
+
+
+/*FOOTER-Navbar*/
+footer{
+	margin:0;
+	padding-top: 10px;
+	border-top: 2px solid #bfbfbf;
+	background-color: #343a40;
+	color:#ffffff;
+}
+
+footer ul{
+	list-style: none;
+	font-size:14px;
+}
+
+footer h5{
+	font-weight: 400;
+	font-size:16px;
+}
+
+.tabdeel-link{
+	color: #ffffff;
+}
+
+.tabdeel-link:hover{
+	color: #ffffff;
+}
+
+.tabdeel-link:visited{
+	color: #ffffff;
+}
+
+#bottom-nav{
+	border: 0;
+	margin: 0;
+	padding:0;
+}
+
+.bottom-nav-text{
+	text-align: center;
+	margin: 15px auto;
+	padding: 10px;
+	border-top:1px solid #ffffff;
+	border-bottom:1px solid #ffffff;
+}
+
+
+/*TOP NAVBAR*/
+
+.login-signup:hover{
+	cursor: pointer;
+}
+
+.button-link{
+	color:#212529;;
+}
+
+a.button-link:hover{
+	color:#ffffff;
+}
+
+.button-link:visited{
+	color:#212529;;
+}
+

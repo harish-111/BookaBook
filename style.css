@@ -1,0 +1,136 @@
+#logo{
+	float:left;
+	width: 100px;
+	margin-left:20px;
+	position: fixed;
+}
+
+nav{
+	border-bottom: 2px solid #bfbfbf;
+}
+
+.bg-light{
+	background-color: #ffffff !important;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color: #fff;
+}
+
+img.navbar-brand{
+	max-width:15%;
+}
+
+
+
+/*FOOTER-Navbar*/
+footer{
+	margin:0;
+	padding-top: 10px;
+	border-top: 2px solid #bfbfbf;
+	background-color: #343a40;
+	color:#ffffff;
+}
+
+footer ul{
+	list-style: none;
+	font-size:14px;
+}
+
+footer h5{
+	font-weight: 400;
+	font-size:16px;
+}
+
+.tabdeel-link{
+	color: #ffffff;
+}
+
+.tabdeel-link:hover{
+	color: #ffffff;
+}
+
+.tabdeel-link:visited{
+	color: #ffffff;
+}
+
+#bottom-nav{
+	border: 0;
+	margin: 0;
+	padding:0;
+}
+
+.bottom-nav-text{
+	text-align: center;
+	margin: 15px auto;
+	padding: 10px;
+	border-top:1px solid #ffffff;
+	border-bottom:1px solid #ffffff;
+}
+
+
+/*TOP NAVBAR*/
+
+
+/*BANNER-CARAOUSEL*/
+#top-banner-caraousel .carousel-item{
+	height: 300px;
+	max-width: cover;
+}
+
+
+
+/*PRODUCT LIST*/
+#productslist{
+	margin-top:20px;
+}
+
+
+/*POST-LOGIN MAIN LANDING PAGE*/
+.user-dropdown-title{
+	font-size: 14px;
+}
+
+/*category-subcategory*/
+.category-subcategory{
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+/*PRODUCT CARDS*/
+	.card{
+	margin-bottom: 20px;!important
+	border: 1px solid #bfbfbf;
+	background-color: #ffffff;
+	}
+
+	.card-header-text{
+	font-weight: 500;
+	font-size: 1.2rem;
+	margin-bottom: 0;
+	text-align: center;
+	}
+
+	.card-text{
+		margin-top: 10px;
+		text-align: center;
+	}
+
+	.card-header{
+		margin-bottom: 0;
+	}
+
+	.card-button{
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	#filtersdiv{
+		display: inherit;
+	}
+
+
+/*CATEGORY LINKS*/
+.navbar{
+	display: block;
+}
